@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">Let\'s find outyour love type!</string>
+    <string name="question">what your name?</string>
+</resources>
