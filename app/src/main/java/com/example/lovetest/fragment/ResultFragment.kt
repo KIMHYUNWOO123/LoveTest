@@ -50,24 +50,24 @@ class ResultFragment : Fragment() {
 
         when(option){
             1 -> {
-                tv_main.text = "You are a QUITTER!"
-                tv_sub.text ="You can let the person easily."
+                tv_main.text = "당신은 포기자예요!"
+                tv_sub.text ="당신은 그 사람을 쉽게 허락할 수 있습니다."
             }
 
             2 -> {
-                tv_main.text="You should focus on yourself"
-                tv_sub.text="You become really clingy to your ex."
+                tv_main.text="당신은 자신에게 집중해야 한다."
+                tv_sub.text="당신은 전애인에게 정말 집착하게 됩니다."
 
             }
 
             3-> {
-                tv_main.text="You should take it easy"
-                tv_sub.text="You can do crazy things no matter what it takes."
+                tv_main.text="당신은 진정해야 돼요."
+                tv_sub.text="당신은 무슨 일이 있으면 미친 짓도 할 수 있어요."
             }
 
             4-> {
-                tv_main.text="You are pretty mature."
-                tv_sub.text="You can easily accept the break-up."
+                tv_main.text="당신은 꽤 성숙하군요."
+                tv_sub.text="당신은 쉽게 이별을 받아들일 수 있어요."
             }
         }
     }

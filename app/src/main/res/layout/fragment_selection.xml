@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:background="@drawable/selection"
             android:gravity="center"
-            android:text="1. Throw it away." />
+            android:text="1.던지고 싶다." />
 
         <TextView
             android:id="@+id/option_2"
@@ -34,7 +34,7 @@
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="2. Water the flowers."
+            android:text="2.물을 주고싶다."
             android:background="@drawable/selection" />
 
         <TextView
@@ -44,7 +44,7 @@
             android:layout_marginBottom="10dp"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="3. Cut it off with sissors."
+            android:text="3.가위로 자르고 싶다."
             android:background="@drawable/selection" />
 
         <TextView
@@ -53,7 +53,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="4. Make them as dried flower."
+            android:text="4.시들게 하고 싶다."
             android:layout_marginBottom="10dp"
             android:background="@drawable/selection" />
 

@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">LoveTest</string>
-    <string name="main_title">Let\'s find outyour love type!</string>
-    <string name="question">what your name?</string>
+    <string name="main_title">너의 사랑의 타입을 찾아보자</string>
+    <string name="question">꽃을 보면 어떤 생각이 드나요?</string>
 </resources>
